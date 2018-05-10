@@ -1,0 +1,111 @@
+/*** First Homework Assignment ***/
+
+
+body {
+    background: #777;
+}
+
+header {
+    display: block;
+    background: whitesmoke;
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 20px;
+    margin-left:60px;
+    margin-right: 60px;
+}
+
+#nav {
+    margin-top: 10px;
+    margin-bottom:20px;
+    width: 1145px;
+    height: 50px;
+    background: whitesmoke;
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 20px;
+    margin-left:60px;
+    margin-right: 60px;
+}
+
+section {
+    float: left;
+    display: block;
+    background: whitesmoke;
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    height: 215px;
+    width: 550px;
+    margin-left: 60px;
+    padding-top: 15px;
+}
+
+#article {
+    display: block;
+    background: #777;
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    height: 130px;
+    width: 500px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.aside {
+    float: right;
+    background: whitesmoke;
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding-top: 30px;
+    height: 200px;
+    width: 550px;
+    margin-right: 60px;
+}
+
+#h1h2h3 {
+    font-size: 15px;
+    background: whitesmoke;
+    color: gray;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-left: 25px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    width: 450px;
+}
+
+#p {
+    font-size: 15px;
+    color: gray;
+    background: whitesmoke;
+    margin-left: 25px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    width: 450px;
+}
+
+footer {
+    font-family: Arial, Helvetica, sans-serif;
+    background: whitesmoke;
+    color: gray;
+    clear: both;
+    width: 1145px;
+    margin-left: 60px;
+    margin-top: 365px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
